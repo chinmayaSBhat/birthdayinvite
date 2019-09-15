@@ -1,1 +1,1 @@
-web: gunicorn mylove.wsgi --log-file -
+web: gunicorn BirthdayInvite.wsgi --log-file -
