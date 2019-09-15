@@ -1,1 +1,2 @@
-web: gunicorn BirthdayInvite.wsgi
+web: gunicorn BirthdayInvite.wsgi --log-file -
+
